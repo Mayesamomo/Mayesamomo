@@ -11,6 +11,10 @@
 - 🌐 &nbsp; Android | Ionic | HTML | CSS | JavaScript | Bootstrap 
 - 🛢 &nbsp; MySQL | Firebase | Xampp | MongoDB
 - 🔧 &nbsp; Android Studio | Visual Studio code | Netbeans|IntelliJ | Git
-- 🖥 &nbsp; Adobe Xd | Illustrator | Photoshop | Microsfot Project
+- 🖥 &nbsp; Adobe Xd | Illustrator | Photoshop | Microsfot Project| Figma
+
+<h3>🛠 Software  Architecture & Design </h3>
+-  &nbsp; Monolithic
+-  &nbsp; Microservice
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mayesamomo&theme=radical&title_color=8E2DE2&text_color=fff)
