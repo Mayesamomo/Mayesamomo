@@ -29,4 +29,8 @@
 
 <a href="https://github.com/Mayesamomo/Blog-CMS-">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mayesamomo&repo=Blog-CMS-&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>    
+</a>   
+
+<a href="https://github.com/Mayesamomo/EmailApplication">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mayesamomo&repo=EmailApplication&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a> 
