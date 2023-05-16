@@ -13,7 +13,6 @@
 - 🔧 &nbsp; Android Studio | Visual Studio code | Netbeans|IntelliJ | Git
 - 🖥 &nbsp; Adobe Xd | Illustrator | Photoshop | Microsfot Project| Figma
 
-https://github.com/Mayesamomo
 
 ## &#x1f4c8; GitHub Stats
 <p align="left">
