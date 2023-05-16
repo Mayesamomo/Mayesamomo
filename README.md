@@ -13,25 +13,23 @@
 - 🔧 &nbsp; Android Studio | Visual Studio code | Netbeans|IntelliJ | Git
 - 🖥 &nbsp; Adobe Xd | Illustrator | Photoshop | Microsfot Project| Figma
 
-
+https://github.com/Mayesamomo
 
 ## &#x1f4c8; GitHub Stats
-<a href="https://github.com/Mayesamomo/Mayesamomo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayesamomo&show_icons=true&&line_height=27&layout=compact&tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<p align="left">
+  <a href="https://github.com/Mayesamomo">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mayesamomo&theme=radical&border=7F3FBF&background=0D1117" alt="Michael's GitHub streak"/>
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://github.com/Mayesamomo">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mayesamomo&theme=radical" alt="Michael's GitHub Contribution"/>
+  </a>
+</p>
+
+<a> 
+    <a href="https://github.com/Mayesamomo"><img alt="michael's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Mayesamomo&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/alsiam"><img alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Mayesamomo&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <br/>
 </a>
-<a href="https://github.com/Mayesamomo/Mayesamomo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mayesamomo&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Michael's GitHub Stats" />
-</a>
-
-<a href="https://github.com/Mayesamomo/RepostForum">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mayesamomo&repo=RepostForum&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-
-<a href="https://github.com/Mayesamomo/Blog-CMS-">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mayesamomo&repo=Blog-CMS-&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>   
-
-<a href="https://github.com/Mayesamomo/EmailApplication">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mayesamomo&repo=EmailApplication&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a> 
