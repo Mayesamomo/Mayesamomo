@@ -4,7 +4,7 @@
 
 - 🔭I'm a backend Developer , Freelancing and  a Part-time employee at Maafor Technologies
 - 👯 I’m looking to collaborate on JavaScript, NodeJs and React Development.
--  🌱 I’m currently learning  Web Devlopment.
+-  🌱 I’m currently learning.
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Java | JavaScript| C# | C | PHP
