@@ -2,15 +2,15 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭I'm a backend Developer , Freelancing and  a Part-time employee at Maafor Technologies
-- 👯 I’m looking to collaborate on JavaScript, NodeJs and React Development.
--  🌱 I’m currently learning.
+- 🔭I'm a Fullstack Developer , Freelancing and  a Part-time employee at Maafor Technologies
+- 👯 I’m looking to collaborate on JavaScript,TypeScript,Java, Springboot, C# , ASP.NET, NodeJS and React Development.
+-  🌱 Currently upgrading my DS and ALgo skills on LeetCode.
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Java | JavaScript| C# | C | PHP
 - 🌐 &nbsp; Ionic | HTML | CSS | JavaScript | Bootstrap 
-- 🛢 &nbsp; MySQL | Firebase | Xampp | MongoDB
-- 🔧 &nbsp; Android Studio | Visual Studio code | Netbeans|IntelliJ | Git
+- 🛢 &nbsp; MySQL | Firebase | PosgreSQL| MongoDB
+- 🔧 &nbsp; Android Studio | Visual Studio code | Netbeans|IntelliJ | Git | Docker | CI/CD
 - 🖥 &nbsp; Adobe Xd | Illustrator | Photoshop | Microsfot Project| Figma
 
 
